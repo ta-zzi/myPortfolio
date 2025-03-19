@@ -12,9 +12,10 @@ I am a <strong>Senior Lecturer at Universiti Tenaga Nasional (UNITEN)</strong> s
 - IoT & Embedded Systems: Raspberry Pi, Arduino, Industrial IoT (IIoT), Smart Metering  
 - Cybersecurity & Networking: Kali Linux, Wireshark, VPN, Network Security  
 - Renewable Energy & Smart Grids: AI-based energy forecasting, AMI Analytics, Power Systems  
+
+
 <br>
 ![](/assets/img/bike_study.jpeg)
-
 
 ## 🎓 Education  
 - Ph.D. in Electrical Engineering | Universiti Tenaga Nasional  
