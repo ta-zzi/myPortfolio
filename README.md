@@ -23,7 +23,7 @@ I am a <strong>Senior Lecturer at Universiti Tenaga Nasional (UNITEN)</strong> s
 - M.Eng in Electrical Engineering | Universiti Tenaga Nasional  
 - B.Eng in Electrical & Electronics Engineering | Universiti Tenaga Nasional  
 
- ## 💼 Work Experience  
+## 💼 Work Experience  
 ### Senior Lecturer @ Universiti Tenaga Nasional (2009 - Present)  
 - Developed AI-powered non-technical loss detection systems for TNB, reducing fraud detection time.  
 - Designed IoT-based solar-powered monitoring systems for renewable energy optimization.  
@@ -67,12 +67,13 @@ I am a <strong>Senior Lecturer at Universiti Tenaga Nasional (UNITEN)</strong> s
 - Scopus h-index: 6 with 119 citations and 13 ISI-indexed papers.  
 - Secured RM 2.2 million in research funding for AI-driven energy analytics projects.  
 
- ## 🏅 Certifications & Professional Memberships
+## 🏅 Certifications & Professional Memberships
 - Professional Engineer (Ir.) - Board of Engineers Malaysia (BEM)  
 - Corporate Member - Institute of Engineers Malaysia (IEM)  
 - Certified Python Programmer for Data Science  
 - Certified Cybersecurity Specialist  
 - Industrial IoT (IIoT) Developer
+
 <br>
 ## 📢 Connect with Me  
 🔗 [LinkedIn](https://www.linkedin.com/in/prajindra/)  
