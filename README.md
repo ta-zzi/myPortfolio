@@ -15,6 +15,7 @@ I am a <strong>Senior Lecturer at Universiti Tenaga Nasional (UNITEN)</strong> s
 
 
 <br>
+
 ![](/assets/img/bike_study.jpeg)
 
 ## 🎓 Education  
