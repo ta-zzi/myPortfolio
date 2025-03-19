@@ -40,6 +40,11 @@ I am a <strong>Senior Lecturer at Universiti Tenaga Nasional (UNITEN)</strong> s
 - Fault Classification for TNB Switchgear: Implemented ultrasound-based AI analytics for predictive maintenance.  
 
 ## 📂 Projects  
+
+[![Watch the video](https://img.youtube.com/vi/l9AzO1FMgM8/maxresdefault.jpg)](https://youtu.be/l9AzO1FMgM8)
+
+### [Watch this video on YouTube](https://youtu.be/l9AzO1FMgM8)
+
 ### 🔹 AI-Based Renewable Energy Forecasting  
 - Developed machine learning models for solar energy yield prediction, improving accuracy by 20%.  
 - Integrated big data analytics to optimize large-scale solar (LSS) farm performance.  
