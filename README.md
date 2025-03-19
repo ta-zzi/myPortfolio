@@ -16,7 +16,7 @@ I am a <strong>Senior Lecturer at Universiti Tenaga Nasional (UNITEN)</strong> s
 
 <br>
 
-![](/assets/img/bike_study.jpeg)
+![Skill Logo](/assets/img/bike_study.jpeg)
 
 ## 🎓 Education  
 - Ph.D. in Electrical Engineering | Universiti Tenaga Nasional  
