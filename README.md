@@ -61,7 +61,7 @@ I am a Senior Lecturer at Universiti Tenaga Nasional (UNITEN) specializing in AI
 - Certified Python Programmer for Data Science  
 - Certified Cybersecurity Specialist  
 - Industrial IoT (IIoT) Developer
-- 
+
 ## 📢 Connect with Me  
 🔗 [LinkedIn](https://www.linkedin.com/in/prajindra/)  
 📺 [YouTube Channel](https://www.youtube.com/@prajindrasankar5879)
