@@ -74,7 +74,6 @@ I am a <strong>Senior Lecturer at Universiti Tenaga Nasional (UNITEN)</strong> s
 - Certified Cybersecurity Specialist  
 - Industrial IoT (IIoT) Developer
 
-<br>
 ## 📢 Connect with Me  
 🔗 [LinkedIn](https://www.linkedin.com/in/prajindra/)  
 📺 [YouTube Channel](https://www.youtube.com/@prajindrasankar5879)
