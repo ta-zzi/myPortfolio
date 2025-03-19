@@ -1,4 +1,4 @@
-# Ir. Dr. Prajindra Sankar Krishnan  
+# Izzat bin Mohamad Sarpin
 #### Senior Lecturer | AI & Data Analytics in Energy | Smart Grid & Renewable Energy Solutions  
 
 ## 🚀 About Me
@@ -45,7 +45,7 @@ I am a <strong>Senior Lecturer at Universiti Tenaga Nasional (UNITEN)</strong> s
 
 ### [Watch this video on YouTube](https://youtu.be/l9AzO1FMgM8)
 
-### 🔹 AI-Based Renewable Energy Forecasting  
+### 🔹 [AI-Based Renewable Energy Forecasting](https://www.mdpi.com/1424-8220/22/8/3048)  
 - Developed machine learning models for solar energy yield prediction, improving accuracy by 20%.  
 - Integrated big data analytics to optimize large-scale solar (LSS) farm performance.  
 
