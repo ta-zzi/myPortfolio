@@ -14,6 +14,7 @@ I am a <strong>Senior Lecturer at Universiti Tenaga Nasional (UNITEN)</strong> s
 - Cybersecurity & Networking: Kali Linux, Wireshark, VPN, Network Security  
 - Renewable Energy & Smart Grids: AI-based energy forecasting, AMI Analytics, Power Systems  
 
+
 <br>
 ## 🎓 Education  
 - Ph.D. in Electrical Engineering | Universiti Tenaga Nasional  
