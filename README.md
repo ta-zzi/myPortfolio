@@ -1,5 +1,5 @@
 # Izzat bin Mohamad Sarpin
-#### Senior Lecturer | AI & Data Analytics in Energy | Smart Grid & Renewable Energy Solutions  
+#### Student at Universiti Tenaga Nasional | Cybersecurity | Smart Grid & Renewable Energy Solutions  
 
 ## 🚀 About Me
 <p align="justify">
