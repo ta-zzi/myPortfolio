@@ -40,31 +40,16 @@ and industry problems.
 ## 🎓 Education  
 **B.Sc in Computer Science (Cybersecurity) (Hons)**  
 Universiti Tenaga Nasional (UNITEN)  
-*Expected Graduation: [Year]*
+*Expected Graduation: 2026*
 
 ---
 
 ## 📂 Projects
 
-### 🔹 Network Security Monitoring System
-- Built a network monitoring tool using Wireshark and Python to detect suspicious traffic.
-- Simulated real-world attack scenarios including port scanning and packet sniffing.
-- **Tools:** Python, Wireshark, Kali Linux
-
-### 🔹 IoT-Based Smart Home Automation
-- Developed a home automation prototype using Raspberry Pi and Arduino.
-- Integrated sensors for temperature, motion detection, and remote control via web dashboard.
-- **Tools:** Raspberry Pi, Arduino, Python, HTML/CSS
-
-### 🔹 Web-Based Student Management System
+### 🔹 UNITEN eCourseFile Management System
 - Designed and developed a full-stack web application for managing student records.
 - Implemented user authentication, role-based access, and a MySQL database.
 - **Tools:** Laravel, PHP, SQL, JavaScript, CSS
-
-### 🔹 Network Design & Simulation
-- Designed a scalable enterprise network topology with VLANs, routing, and switching.
-- Simulated and tested the network using Cisco Packet Tracer.
-- **Tools:** Cisco Packet Tracer, OSPF, VLAN
 
 ---
 
@@ -80,8 +65,8 @@ Universiti Tenaga Nasional (UNITEN)
 -->
 
 ## 🎯 Interests & Goals
-- 🔐 Passionate about **ethical hacking** and **penetration testing**
-- 🌐 Keen interest in **network infrastructure security** and **cloud networking**
+- 🔐 Passionate about **IT** and **networking**
+- 🌐 Keen interest in **network infrastructure security**, **cloud networking** and **cybersecurity**
 - 📡 Exploring **IoT security** and smart device vulnerabilities
 - 🎯 Aiming to pursue a career in **cybersecurity operations** or **network engineering**
 
