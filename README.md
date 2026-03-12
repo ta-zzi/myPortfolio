@@ -12,10 +12,11 @@ I am a <strong>Student at Universiti Tenaga Nasional (UNITEN)</strong> specializ
 - IoT & Embedded Systems: Raspberry Pi, Arduino  
 - Cybersecurity & Networking: Kali Linux, Wireshark, VPN, Network Security  
   
-
-
 <br>
 
+## 📜 Certification
+- CCNA: Introduction to Networks
+- CCNA: Switching, Routing, and Wireless Essentials
 
 ## 🎓 Education  
 - B.Sc in Computer Science (Cybersecurity) (Hons) | Universiti Tenaga Nasional  
