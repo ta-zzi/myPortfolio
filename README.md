@@ -11,9 +11,7 @@ I am a <strong>Student at Universiti Tenaga Nasional (UNITEN)</strong> specializ
 - Netowrking & Switching: Python, SQL, Grafana, Predictive Analytics  
 - IoT & Embedded Systems: Raspberry Pi, Arduino  
 - Cybersecurity & Networking: Kali Linux, Wireshark, VPN, Network Security  
-  
 <br>
-
 ## 📜 Certification
 - CCNA: Introduction to Networks
 - CCNA: Switching, Routing, and Wireless Essentials
