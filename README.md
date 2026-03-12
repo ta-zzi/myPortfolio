@@ -1,17 +1,17 @@
 # Izzat bin Mohamad Sarpin
-#### Student at Universiti Tenaga Nasional | Cybersecurity | Smart Grid & Renewable Energy Solutions  
+#### Student at Universiti Tenaga Nasional | Cybersecurity | Netowrking | IoT  
 
 ## 🚀 About Me
 <p align="justify">
-I am a <strong>Student at Universiti Tenaga Nasional (UNITEN)</strong> specializing in <strong>Cybersecurity</strong>. With over <strong>15 years of experience</strong>, I have collaborated extensively with <strong>Tenaga Nasional Berhad (TNB)</strong> on projects involving <strong>non-technical loss detection, smart grid optimization, and energy fraud prevention</strong>. My work bridges <strong>academia and industry</strong>, focusing on AI applications that enhance <strong>grid reliability, energy security, and sustainability</strong>.
+I am a <strong>Student at Universiti Tenaga Nasional (UNITEN)</strong> specializing in <strong>Cybersecurity, IoT and Networking</strong>. Through my studies at UNITEN, I have gained hands-on experience in applying technical knowledge to real-world challenges, with a strong interest in building secure and intelligent systems that solve modern business and industry problems.
 </p>
 
 ## 🛠 Technical Skills  
-- Artificial Intelligence & Machine Learning: TensorFlow, LSTM, XGBoost, Deep Learning  
-- Data Science & Analytics: Python, SQL, Grafana, Predictive Analytics  
-- IoT & Embedded Systems: Raspberry Pi, Arduino, Industrial IoT (IIoT), Smart Metering  
+- Web Application : HTML, CSS, Laveral, SQL, PHP, JavaScript   
+- Netowrking & Switching: Python, SQL, Grafana, Predictive Analytics  
+- IoT & Embedded Systems: Raspberry Pi, Arduino  
 - Cybersecurity & Networking: Kali Linux, Wireshark, VPN, Network Security  
-- Renewable Energy & Smart Grids: AI-based energy forecasting, AMI Analytics, Power Systems  
+  
 
 
 <br>
