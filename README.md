@@ -81,6 +81,5 @@ Universiti Tenaga Nasional (UNITEN)
 
 ## 📢 Connect with Me  
 🔗 [LinkedIn](https://www.linkedin.com/in/tazzii/) — IZZAT BIN MOHAMAD SARPIN  
-📧 [Email](izzatsarpin@gmail.com) - izzatsarpin@gmail
-
+📧 [Email](izzatsarpin@gmail.com) - izzatsarpin@gmail.com
 🐙 [GitHub](https://github.com/ta-zzi) - ta-zzi
