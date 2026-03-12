@@ -21,11 +21,11 @@ I am a <strong>Student at Universiti Tenaga Nasional (UNITEN)</strong> specializ
 ## 🎓 Education  
 - B.Sc in Computer Science (Cybersecurity) (Hons) | Universiti Tenaga Nasional  
 
-## 💼 Work Experience  
+//## 💼 Work Experience  
 
-## 📂 Projects  
+//## 📂 Projects  
 
 
 ## 📢 Connect with Me  
-🔗 [LinkedIn]((https://www.linkedin.com/in/tazzii/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/tazzii/)  
 📺 [YouTube Channel](https://www.youtube.com/@prajindrasankar5879)
