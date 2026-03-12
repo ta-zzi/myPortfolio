@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 <p align="justify">
-I am a <strong>Senior Lecturer at Universiti Tenaga Nasional (UNITEN)</strong> specializing in <strong>AI-driven analytics, IoT solutions, smart metering, and predictive energy systems</strong>. With over <strong>15 years of experience</strong>, I have collaborated extensively with <strong>Tenaga Nasional Berhad (TNB)</strong> on projects involving <strong>non-technical loss detection, smart grid optimization, and energy fraud prevention</strong>. My work bridges <strong>academia and industry</strong>, focusing on AI applications that enhance <strong>grid reliability, energy security, and sustainability</strong>.
+I am a <strong>Student at Universiti Tenaga Nasional (UNITEN)</strong> specializing in <strong>Cybersecurity</strong>. With over <strong>15 years of experience</strong>, I have collaborated extensively with <strong>Tenaga Nasional Berhad (TNB)</strong> on projects involving <strong>non-technical loss detection, smart grid optimization, and energy fraud prevention</strong>. My work bridges <strong>academia and industry</strong>, focusing on AI applications that enhance <strong>grid reliability, energy security, and sustainability</strong>.
 </p>
 
 ## 🛠 Technical Skills  
