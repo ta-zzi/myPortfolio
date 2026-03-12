@@ -16,7 +16,6 @@ I am a <strong>Student at Universiti Tenaga Nasional (UNITEN)</strong> specializ
 
 <br>
 
-![Skill Logo](/assets/img/bike_study.jpeg)
 
 ## 🎓 Education  
 - B.Sc in Computer Science (Cybersecurity) (Hons) | Universiti Tenaga Nasional  
@@ -27,5 +26,5 @@ I am a <strong>Student at Universiti Tenaga Nasional (UNITEN)</strong> specializ
 
 
 ## 📢 Connect with Me  
-🔗 [LinkedIn](https://www.linkedin.com/in/tazzii/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/tazzii/) - IZZAT BIN MOHAMAD SARPIN 
 📺 [YouTube Channel](https://www.youtube.com/@prajindrasankar5879)
