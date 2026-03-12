@@ -23,7 +23,7 @@ I am a <strong>Student at Universiti Tenaga Nasional (UNITEN)</strong> specializ
 
 <!--## 💼 Work Experience  
 
-//## 📂 Projects -->>  
+//## 📂 Projects -->  
 
 
 ## 📢 Connect with Me  
