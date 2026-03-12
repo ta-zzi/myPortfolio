@@ -73,8 +73,8 @@ Universiti Tenaga Nasional (UNITEN)
 ---
 
 ## 🏅 Co-Curricular & Activities
-- Participated in **[Hackathon / CTF Competition Name]** *(add if applicable)*
-- Member of **[Cybersecurity Club / IEEE Student Branch]** at UNITEN *(add if applicable)*
+- Participated in **[Hackathon / CTF Competition Name]** *
+- Volunteering in Sports Event as **Technician**
 - Attended workshops on **Network Security and Ethical Hacking**
 
 ---
