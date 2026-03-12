@@ -73,8 +73,8 @@ Universiti Tenaga Nasional (UNITEN)
 ---
 
 ## 🏅 Co-Curricular & Activities
-- Participated in **[Hackathon / CTF Competition Name]** *
 - Volunteering in Sports Event as **Technician**
+- Volunteering in a School Workshop as **Logistics**
 - Attended workshops on **Network Security and Ethical Hacking**
 
 ---
