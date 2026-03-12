@@ -21,9 +21,9 @@ I am a <strong>Student at Universiti Tenaga Nasional (UNITEN)</strong> specializ
 ## 🎓 Education  
 - B.Sc in Computer Science (Cybersecurity) (Hons) | Universiti Tenaga Nasional  
 
-//## 💼 Work Experience  
+<!--## 💼 Work Experience  
 
-//## 📂 Projects  
+//## 📂 Projects -->>  
 
 
 ## 📢 Connect with Me  
