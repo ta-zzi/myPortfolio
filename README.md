@@ -85,4 +85,4 @@ Universiti Tenaga Nasional (UNITEN)
 <br><br>
 📧 Email: izzatsarpin@gmail.com
 <br><br>
-</> GitHub: https://github.com/ta-zzi
+< / > GitHub: https://github.com/ta-zzi
