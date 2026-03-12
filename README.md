@@ -1,32 +1,100 @@
 # Izzat bin Mohamad Sarpin
-#### Student at Universiti Tenaga Nasional | Cybersecurity | Netowrking | IoT  
+#### Student at Universiti Tenaga Nasional | Cybersecurity | Networking | IoT  
 
 ## 🚀 About Me
 <p align="justify">
-I am a <strong>Student at Universiti Tenaga Nasional (UNITEN)</strong> specializing in <strong>Cybersecurity, IoT and Networking</strong>. Through my studies at UNITEN, I have gained hands-on experience in applying technical knowledge to real-world challenges, with a strong interest in building secure and intelligent systems that solve modern business and industry problems.
+I am a <strong>Student at Universiti Tenaga Nasional (UNITEN)</strong> specializing in 
+<strong>Cybersecurity, IoT and Networking</strong>. Through my studies at UNITEN, I have 
+gained hands-on experience in applying technical knowledge to real-world challenges, with 
+a strong interest in building secure and intelligent systems that solve modern business 
+and industry problems.
 </p>
 
+---
+
 ## 🛠 Technical Skills  
-- Web Application : HTML, CSS, Laveral, SQL, PHP, JavaScript   
-- Netowrking & Switching: Python, SQL, Grafana, Predictive Analytics  
-- IoT & Embedded Systems: Raspberry Pi, Arduino  
-- Cybersecurity & Networking: Kali Linux, Wireshark, VPN, Network Security  
 
-<br>
+**Cybersecurity & Networking**
+- Kali Linux, Wireshark, VPN, Network Security, Penetration Testing
 
-## 📜 Certification
-- CCNA: Introduction to Networks
-- CCNA: Switching, Routing, and Wireless Essentials
+**Networking & Switching**
+- Cisco Packet Tracer, VLAN, Routing Protocols (OSPF, RIP), Subnetting
+
+**Web Application Development**
+- HTML, CSS, Laravel, PHP, JavaScript, SQL
+
+**IoT & Embedded Systems**
+- Raspberry Pi, Arduino, Sensor Integration, GPIO Programming
+
+**Tools & Platforms**
+- GitHub, VS Code, Linux Terminal, VirtualBox, VMware
+
+---
+
+## 📜 Certifications
+- 🏅 CCNA: Introduction to Networks — *Cisco Networking Academy*
+- 🏅 CCNA: Switching, Routing, and Wireless Essentials — *Cisco Networking Academy*
+
+---
 
 ## 🎓 Education  
-- B.Sc in Computer Science (Cybersecurity) (Hons) | Universiti Tenaga Nasional  
+**B.Sc in Computer Science (Cybersecurity) (Hons)**  
+Universiti Tenaga Nasional (UNITEN)  
+*Expected Graduation: [Year]*
 
-<!--## 💼 Work Experience  
+---
 
-//## 📂 Projects -->  
+## 📂 Projects
 
+### 🔹 Network Security Monitoring System
+- Built a network monitoring tool using Wireshark and Python to detect suspicious traffic.
+- Simulated real-world attack scenarios including port scanning and packet sniffing.
+- **Tools:** Python, Wireshark, Kali Linux
+
+### 🔹 IoT-Based Smart Home Automation
+- Developed a home automation prototype using Raspberry Pi and Arduino.
+- Integrated sensors for temperature, motion detection, and remote control via web dashboard.
+- **Tools:** Raspberry Pi, Arduino, Python, HTML/CSS
+
+### 🔹 Web-Based Student Management System
+- Designed and developed a full-stack web application for managing student records.
+- Implemented user authentication, role-based access, and a MySQL database.
+- **Tools:** Laravel, PHP, SQL, JavaScript, CSS
+
+### 🔹 Network Design & Simulation
+- Designed a scalable enterprise network topology with VLANs, routing, and switching.
+- Simulated and tested the network using Cisco Packet Tracer.
+- **Tools:** Cisco Packet Tracer, OSPF, VLAN
+
+---
+
+<!--
+## 💼 Internship & Experience
+
+### IT / Network Intern @ *[Company Name]* *(if applicable)*
+- Assisted in network configuration and troubleshooting of LAN/WAN infrastructure.
+- Supported the IT team in monitoring system security and managing user access.
+- Gained exposure to real-world cybersecurity operations and network management.
+
+*(Update this section with your actual internship details or remove if not yet applicable)*
+-->
+
+## 🎯 Interests & Goals
+- 🔐 Passionate about **ethical hacking** and **penetration testing**
+- 🌐 Keen interest in **network infrastructure security** and **cloud networking**
+- 📡 Exploring **IoT security** and smart device vulnerabilities
+- 🎯 Aiming to pursue a career in **cybersecurity operations** or **network engineering**
+
+---
+
+## 🏅 Co-Curricular & Activities
+- Participated in **[Hackathon / CTF Competition Name]** *(add if applicable)*
+- Member of **[Cybersecurity Club / IEEE Student Branch]** at UNITEN *(add if applicable)*
+- Attended workshops on **Network Security and Ethical Hacking**
+
+---
 
 ## 📢 Connect with Me  
-🔗 [LinkedIn](https://www.linkedin.com/in/tazzii/) - IZZAT BIN MOHAMAD SARPIN 
-
-📺 [YouTube Channel](https://www.youtube.com/@prajindrasankar5879)
+🔗 [LinkedIn](https://www.linkedin.com/in/tazzii/) — Izzat bin Mohamad Sarpin  
+📧 [Email](izzatsarpin@gmail.com) *(add your email)*  
+🐙 [GitHub](https://github.com/ta-zzi) *(add your GitHub)*
