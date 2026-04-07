@@ -38,6 +38,9 @@ and industry problems.
 ---
 
 ## 🎓 Education  
+*Foundation in Computing and Engineering**  
+University Malaysia of Computer Science & Engineering
+
 **B.Sc in Computer Science (Cybersecurity) (Hons)**  
 Universiti Tenaga Nasional (UNITEN)  
 *Expected Graduation: 2026*
@@ -46,7 +49,7 @@ Universiti Tenaga Nasional (UNITEN)
 
 ## 📂 Projects
 
-### 🔹 UNITEN eCourseFile Management System
+### 🔹 UNITEN eCourseFile Management System (Ongoing)
 - Designed and developed a full-stack web application for managing files and records for staff in CCI.
 - Implemented user authentication, role-based access, and a MySQL database.
 - **Tools:** Laravel, PHP, SQL, JavaScript, CSS
@@ -74,7 +77,7 @@ Universiti Tenaga Nasional (UNITEN)
 
 ## 🏅 Co-Curricular & Activities
 - Volunteering in Sports Event as **Technician**
-- Volunteering in a School Workshop as **Logistics**
+- Volunteering in a School Workshop as **Logistics and Volunteer for Mobile Robotics Club (MRC)**
 - Attended workshops on **Network Security and Ethical Hacking**
 
 ---
