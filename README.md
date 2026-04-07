@@ -86,6 +86,6 @@ Universiti Tenaga Nasional (UNITEN)
 <br>
 🔗 [LinkedIn]: (https://www.linkedin.com/in/tazzii/)
 <br><br>
-📧 [Email]: (mailto:izzatsarpin@gmail.com)
+📧 [Email]: (izzatsarpin@gmail.com)
 <br><br>
 < / > [GitHub]: (https://github.com/ta-zzi)
