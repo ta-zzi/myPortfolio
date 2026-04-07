@@ -24,7 +24,7 @@ and industry problems.
 - HTML, CSS, Laravel, PHP, JavaScript, SQL
 
 **IoT & Embedded Systems**
-- Raspberry Pi, Arduino, Sensor Integration, GPIO Programming
+- Arduino
 
 **Tools & Platforms**
 - GitHub, VS Code, Linux Terminal, VirtualBox, VMware
