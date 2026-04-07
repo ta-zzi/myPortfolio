@@ -39,7 +39,7 @@ and industry problems.
 
 ## 🎓 Education  
 **Foundation in Computing and Engineering**  
-University Malaysia of Computer Science & Engineering
+University Malaysia of Computer Science & Engineering (UNIMY)
 
 **B.Sc in Computer Science (Cybersecurity) (Hons)**  
 Universiti Tenaga Nasional (UNITEN)  
