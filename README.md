@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 <p align="justify">
-I am a <strong>Student at Universiti Tenaga Nasional (UNITEN)</strong> specializing in 
+I am a <strong>student at Universiti Tenaga Nasional (UNITEN)</strong> specializing in 
 <strong>Cybersecurity, IoT and Networking</strong>. Throughout my studies at UNITEN, I have 
 gained hands-on experience in applying technical knowledge to real-world challenges, with 
 a strong interest in building secure and intelligent systems that solve modern business 
