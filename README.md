@@ -4,7 +4,7 @@
 ## 🚀 About Me
 <p align="justify">
 I am a <strong>Student at Universiti Tenaga Nasional (UNITEN)</strong> specializing in 
-<strong>Cybersecurity, IoT and Networking</strong>. Through my studies at UNITEN, I have 
+<strong>Cybersecurity, IoT and Networking</strong>. Throughout my studies at UNITEN, I have 
 gained hands-on experience in applying technical knowledge to real-world challenges, with 
 a strong interest in building secure and intelligent systems that solve modern business 
 and industry problems.
@@ -84,8 +84,8 @@ Universiti Tenaga Nasional (UNITEN)
 
 ## 📢 Connect with Me  
 <br>
-🔗 LinkedIn: https://www.linkedin.com/in/tazzii/
+🔗 LinkedIn: (https://www.linkedin.com/in/tazzii/)
 <br><br>
-📧 Email: izzatsarpin@gmail.com
+📧 Email: (mailto:izzatsarpin@gmail.com)
 <br><br>
-< / > GitHub: https://github.com/ta-zzi
+< / > GitHub: (https://github.com/ta-zzi)
