@@ -15,7 +15,7 @@ and industry problems.
 ## 🛠 Technical Skills  
 
 **Cybersecurity & Networking**
-- Kali Linux, Wireshark, VPN, Network Security, Penetration Testing
+- Kali Linux, Wireshark, VPN, Network Security
 
 **Networking & Switching**
 - Cisco Packet Tracer, VLAN, Routing Protocols (OSPF, RIP), Subnetting
