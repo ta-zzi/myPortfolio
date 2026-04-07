@@ -84,8 +84,8 @@ Universiti Tenaga Nasional (UNITEN)
 
 ## 📢 Connect with Me  
 <br>
-🔗 LinkedIn: (https://www.linkedin.com/in/tazzii/)
+🔗 [LinkedIn]: (https://www.linkedin.com/in/tazzii/)
 <br><br>
-📧 Email: (mailto:izzatsarpin@gmail.com)
+📧 [Email]: (mailto:izzatsarpin@gmail.com)
 <br><br>
-< / > GitHub: (https://github.com/ta-zzi)
+< / > [GitHub]: (https://github.com/ta-zzi)
