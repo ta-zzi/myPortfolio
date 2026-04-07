@@ -38,7 +38,7 @@ and industry problems.
 ---
 
 ## 🎓 Education  
-*Foundation in Computing and Engineering**  
+**Foundation in Computing and Engineering**  
 University Malaysia of Computer Science & Engineering
 
 **B.Sc in Computer Science (Cybersecurity) (Hons)**  
