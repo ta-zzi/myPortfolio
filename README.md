@@ -49,10 +49,10 @@ Universiti Tenaga Nasional (UNITEN)
 
 ## 📂 Projects
 
-### 🔹 UNITEN eCourseFile Management System (Ongoing)
-- Designed and developed a full-stack web application for managing files and records for staff in CCI.
-- Implemented user authentication, role-based access, and a MySQL database.
-- **Tools:** Laravel, PHP, SQL, JavaScript, CSS
+### 🔹 Personal e-Portfolio Website
+- Designed and deployed a responsive personal portfolio using HTML, CSS, and JavaScript
+- Hosted on GitHub Pages: https://ta-zzi.github.io/myPortfolio/
+- **Tools:** HTTPS, JavaScript, CSS
 
 ---
 
