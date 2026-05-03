@@ -21,7 +21,7 @@ and industry problems.
 - Cisco Packet Tracer, VLAN, Routing Protocols (OSPF, RIP), Subnetting
 
 **Web Application Development**
-- HTML, CSS, Laravel, PHP, JavaScript, SQL
+- HTML, CSS, PHP, JavaScript, SQL
 
 **IoT & Embedded Systems**
 - Arduino
@@ -40,6 +40,7 @@ and industry problems.
 ## 🎓 Education  
 **Foundation in Computing and Engineering**  
 University Malaysia of Computer Science & Engineering (UNIMY)
+*Graduated
 
 **B.Sc in Computer Science (Cybersecurity) (Hons)**  
 Universiti Tenaga Nasional (UNITEN)  
